@@ -29,8 +29,35 @@ After setting up with Python3, all you have to do to run the calculator is run t
 It should appear to be blank, however you should be able to type into the console. For instructions on how to use the calculator, please see the tutorial bellow.
 
 # Tutorial
-This is going to be the tutorial on how to use the calculator.
-## Test
+This is going to be a brief tutorial on how to use the program and what kind of inputs and functions it can handle.
+
+### Evaluating basic expressions
+The main purpose of the calculator is to be able to validate infix expressions. As such, it can handle a variety of different input expressions, with muliple operators, operands, and variables. Provided below are some example input expressions. Please note that the ">" indicates user input.
+
+> 2 + 2
+4
+> 2 - 2 - 2
+-2
+> 2 -- 2
+4
+> 4 ++++   4 --+ 1
+9
+> 2 * 2
+4
+> 2 * 4 + 2
+10
+> 2 *** 2
+Invalid Expression
+> 2 // 2
+Invalid Expression
+> 4 + 2 / 2
+5
+
+
+
+
+
+
 
 
 
