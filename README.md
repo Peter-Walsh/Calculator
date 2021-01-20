@@ -34,13 +34,11 @@ This is going to be a brief tutorial on how to use the program and what kind of 
 ### Evaluating basic expressions
 The main purpose of the calculator is to be able to validate infix expressions. As such, it can handle a variety of different input expressions, with muliple operators, operands, and variables. Provided below are some example input expressions. Please note that the ">" indicates user input.
 
-'''
-
+```
 > # Example 1:
 > 2 + 2 
 > 4
-
-'''
+```
 
 > 2 - 2 - 2
 -2
