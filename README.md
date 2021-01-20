@@ -26,7 +26,7 @@ In order to run the program, you need to have the following setup/installed:
 
 After setting up with Python3, all you have to do to run the calculator is run the main.py file. Hopefully the program doesn't crash when you try to run it. If it's working correctly, the console output should look something like this:
 #
-
+>
 #
 It should appear to be blank, however you should be able to type into the console. For instructions on how to use the calculator, please see the tutorial bellow.
 
