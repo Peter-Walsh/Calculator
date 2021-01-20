@@ -24,15 +24,29 @@ In order to run the program, you need to have the following setup/installed:
 
 - Python 3.7
 
-After setting up with Python3, all you have to do to run the calculator is run the main.py file. Hopefully the program doesn't crash when you try to run it. If it's working correctly, the console output should look something like this:
-### >>>
-It should appear to be blank, however you should be able to type into the console. For instructions on how to use the calculator, please see the tutorial bellow.
+After setting up with Python3, all you have to do to run the calculator is run the main.py file. Hopefully the program doesn't crash when you try to run it. If it's working correctly, the console output should look something like the following:
+```
+>
+```
+Please note that ">" indicates that the program is waiting for user input. The console should appear to be blank, awaiting input from the user. For instructions on how to use the calculator, please see the tutorial bellow.
 
 # Tutorial
 This is going to be a brief tutorial on how to use the program and what kind of inputs and functions it can handle.
 
+### Exiting the Program
+The calculator supports two simple commands, one of which is the "\exit" command used to exit the progrom. 
+```
+>/exit
+Bye!
+
+Process finished with exit code 0
+```
+
+### Basic operators
+The calculator is able to evaluate basic infix expressions, and supports several basic arithmetic operators. The operators and their corresponding symbols are as follows: addition ("+"), subtraction ("-"), multiplication ("*"), division ("/"), and exponentiation ("^").
+
 ### Evaluating basic expressions
-The main purpose of the calculator is to be able to validate infix expressions. As such, it can handle a variety of different input expressions, with muliple operators, operands, and variables. Provided below are some example input expressions. Please note that the ">" indicates user input.
+The main purpose of the calculator is to be able to validate infix expressions. As such, it can handle a variety of different input expressions, with muliple operators, operands, and variables. Provided below are a few simple example input expressions. Please note that the ">" indicates user input.
 
 ```
 > 2 + 2 
