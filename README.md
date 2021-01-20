@@ -2,8 +2,7 @@
 This is my simple calulator appliation. It supports several of the basic functions of a calculator and evaluates infix expressions with a wide range of operators and operands.
 
 # Goal
-The goal of me building this project was to get more experience using the Python programming language, and familierize myself with several of the basic data strucutures in preparation for my data strucutes course. Besides working with these data structures, I 
-
+The goal of me building this project was to familierize myself with some basic data strucutures and learn how to work with regular expressions and pattern matching in Python. 
 
 # Functionality
 - Evaluating infix expressions, can handle addition, subtraction, multiplication, division, exponentiation
@@ -31,7 +30,7 @@ After setting up with Python3, all you have to do to run the calculator is run t
 Please note that ">" indicates that the program is waiting for user input. The console should appear to be blank, awaiting input from the user. For instructions on how to use the calculator, please see the tutorial bellow.
 
 # Tutorial
-This is going to be a brief tutorial on how to use the program and what kind of inputs and functions it can handle.
+This is going to be a brief tutorial on how to use the program and what kind of inputs and functions it can handle. Please note that the tutorial is a work in progress.
 
 ### Exiting the Program
 The calculator supports two simple commands, one of which is the "\exit" command used to exit the progrom. 
@@ -67,7 +66,14 @@ Invalid Expression
 Invalid Expression
 > 4 + 2 / 2
 5
+>2^4
+16
 ```
+
+### Declaring Variables
+
+
+
 
 
 
