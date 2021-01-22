@@ -71,6 +71,29 @@ Invalid Expression
 ```
 
 ### Declaring Variables
+Declaring variables in the program is fairly straighforward, all you have to do is assign a valid sequence of characters to a number value, and that's it. Some examples of invalid and valid variable assignments will be included below.
+```
+> x = 45
+> x
+45
+> y = x
+y
+45
+> y + x
+90
+> 3ab = 10
+Invalid identifier
+> ab3 = 10
+Invalid identifier
+> ab = ba
+Unknown Variable
+> ab = //343
+Invalid Assignments
+```
+In order to use variables in expressions, they must have been declared in a prior statement, otherwise the calculator will print, "Unknonw Variable." Once a variable has been declared, it can be treated as just another number in the program. Variables 
+may be assigned to other variables values. With regards to naming variables, all uppercase and lowercase letters are valid. 
+Attempting to declare a variable name comprised of numerical values and other characters misc characters should produce an "Invalid identifier" error.
+
 
 
 
