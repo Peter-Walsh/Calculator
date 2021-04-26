@@ -8,6 +8,13 @@ from infix_to_postfix import convert
 
 from variable import Variable
 
+# Testing the git clone thing with my own repository
+# Testing...
+
+ 
+def new_func():
+    pass
+
 
 def main():
     while True:
